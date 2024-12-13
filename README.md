@@ -1,0 +1,2 @@
+# Safety-Critical-Driving-Scenario-Generation
+自动驾驶安全关键场景生成，主要微调了stable diffusion用于生成驾驶场景，通过prompt生成对应场景，主要的关键场景包括雨雪雾天气下的场景，其余关键场景还没有生成手段
